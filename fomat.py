@@ -1,0 +1,6 @@
+# '{:<15}'.format('left aligned')
+# s = '{:*>30}'.format('right aligned')
+# print(s)
+# sr = '{:,}'.format(1000000000)
+sr = '{:.1%}'.format(0.2545599)
+print(sr)
